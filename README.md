@@ -1,6 +1,6 @@
 # CODSOFT
 
-CODSOFT: A collection of simple software projects including Number Guessing, Calculator, Tic Tac Toe, To-Do List, and Library Management System. A collection of simple and fun command-line projects for practicing coding skills.
+CODSOFT: A collection of simple software projects including, Number Guessing Game, Simple Calculator, Tic Tac Toe Game, To-Do List, and Library Management System, and fun command-line projects for practicing coding skills.
 
 ## Programming langauge:
 
