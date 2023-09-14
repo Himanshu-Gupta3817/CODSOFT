@@ -1,0 +1,16 @@
+112233
+The Hunger Games
+Suzanne Collins
+15
+223344
+The Bell Jar
+Sylvia Plath
+19
+334455
+The Call of the Wild
+Jack London
+12
+556677
+Oliver Twist
+Charles Dickens
+24
